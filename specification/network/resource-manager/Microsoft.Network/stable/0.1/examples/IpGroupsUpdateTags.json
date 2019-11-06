@@ -2,7 +2,7 @@
   "parameters": {
     "ipGroupsName": "ipGroups1",
     "resourceGroupName": "myResourceGroup",
-    "api-version": "2019-09-01",
+    "api-version": "0.1",
     "subscriptionId": "subId",
     "parameters": {
       "tags": {

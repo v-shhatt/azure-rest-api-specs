@@ -2,7 +2,7 @@
   "parameters": {
     "subscriptionId": "subid",
     "resourceGroupName": "rg1",
-    "api-version": "2019-09-01",
+    "api-version": "0.1",
     "virtualWANName": "wan1",
     "request": {
       "vpnSites": [
